@@ -16,7 +16,7 @@ const HelpPage = () => {
             <div className="help__wrapper">
                 <div className="help__content content">
                     <div className="help__content--title">
-                        <Trans>__app_handbook</Trans>
+                        FAQ Page
                     </div>
                     <div className="help__content--text">
                         <Accordion
